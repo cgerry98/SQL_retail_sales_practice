@@ -1,5 +1,5 @@
 # SQL_retail_sales_practice
-##Project Overview
+## Project Overview
 
 Project Title: Retail Sales Analysis
 Level: Beginner
