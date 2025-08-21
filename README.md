@@ -350,7 +350,7 @@ LIMIT 5
 ```
 ## Findings
 - **Customer Demographics and Sales insights**: Checked the demographics of the purchasing customers. Saw where they're purchasing power went to based on they're profile. Also when customers made purchases.
-- ## Conclusion
+## Conclusion
 
 This project serves as a introduction to SQL basic database setup, data cleaning, and exploratory data analysis. Helping business get a better understanding of customer purchasing power and behavior.
 
